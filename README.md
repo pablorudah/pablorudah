@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pablo Rudah 👋
+## Olá! Eu sou o Pablo Ribeiro 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor Fullstack
 - 🌱 Estou estudando atualmente typescript e react
